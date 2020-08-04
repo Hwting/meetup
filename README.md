@@ -3,6 +3,10 @@
 ## 衍生
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
+
+## 线上沙龙
+[云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+
 ## PPT打包
 * [第三届 SEE Conf 2020 讲稿 PPT && 视频](https://www.yuque.com/seeconf/2020/slide)
 * [第二届 SEE Conf 2019 精彩回顾（附 PPT 及视频）](https://www.yuque.com/seeconf/content/kbnzac)
@@ -28,6 +32,7 @@
 * [QCon上海2016](https://github.com/QConChina/QConShanghai2016)
 * [QCon上海2018](https://github.com/QConChina/QConShanghai2018)
 ## 视频
+* [“尤雨溪：聊聊Vue.js 3.0 Beta”直播视频回放](https://juejin.im/e/vue-3)
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
 * [2016 全球技术领导力峰会——技术与领导力专场](https://daxue.qq.com/content/content/id/2732)
 * [Apache Kafka × Apache Flink Meetup-北京站-云栖社区视频源](https://yq.aliyun.com/live/981)

@@ -1,24 +1,28 @@
 # 技术会议、活动、分享
 
+## 最新活动推荐
+1. [Gopher Meetup 深圳](https://mp.weixin.qq.com/s/8VvCrEyAwbK32CVP3eNP2g)
+2. [GopherChina 2021 大会](https://www.bagevent.com/event/7298467)
+
+
 ## 衍生
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
 
 ## 线上沙龙
-[云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+* [云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+* [InfoQ Live](https://live.infoq.cn/)
 
 ## PPT打包
+* [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
+* [2018年 华为 Cloud Native Days China PPT下载合集](https://bbs.huaweicloud.com/forum/thread-10665-1-1.html)这个需要登录华为社区
 * [第三届 SEE Conf 2020 讲稿 PPT && 视频](https://www.yuque.com/seeconf/2020/slide)
 * [第二届 SEE Conf 2019 精彩回顾（附 PPT 及视频）](https://www.yuque.com/seeconf/content/kbnzac)
 * [第一届 SEE Conf 2018 精彩回顾（附 演示文稿）](https://www.yuque.com/seeconf/content/highlights)
 * [第十四届D2前端技术论坛「创心」](https://github.com/d2forum/14th)
 * [OSC源创会所有讲师PPT大仓库！](https://gitee.com/OSCYuanChuangHui/2018_lecturer_ppt)
-* [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
-* [2019极客时间50G大礼包](https://pan.baidu.com/s/1wBEZVPh9NgUM49IoqH1CQw) 提取码: <code>2qga</code>(已失效，回头通过别的方式补上)
 * [2018TOP100全球软件案例研究峰会]( https://pan.baidu.com/s/1OyT4ahErtslMhgiv3yYtig) 提取码: <code>y19w</code>
 * [2018全球互联网架构大会[上海]](https://pan.baidu.com/s/1WVrWqS0MTvoD9sAW6iOlnQ) 提取码: <code>8p5r</code>
-* [2018全球互联网架构大会[深圳]](https://pan.baidu.com/s/14Ozt75PYif_clustviXOkA) 提取码: <code>f8if</code>
-* [2018全球互联网技术大会[北京]](https://pan.baidu.com/s/1MWbYOIFGLXSEQNL2fV_BQg) 提取码: <code>cg3e</code>
 * [Elasticsearch Slides - 在线阅读](https://elasticsearch.cn/slides/)
 * [又拍云OpenTalk Slides - 在线阅读](https://opentalk.upyun.com/)
 * [研发效能提升实践系列课程--阿里巴巴敏捷教练何勉、张燎，需要登录teambition查看](https://www.teambition.com/project/5cec95108eb42a001972fc3b/tasks/scrum/5cec951137be42001ae38f7a)
@@ -77,7 +81,14 @@
 
 ## 说明
 相关资料均来自互联网分享，若涉及版权均归原作者所有，若有侵权或使用不当，请联系删除
+
+## Jetbrains 开源项目许可证
+![Jetbrains](jetbrains-variant-4.svg)
+
+该项目已申请 [Jetbrains](https://www.jetbrains.com/?from=meetup) 开源项目许可证，特别感谢 Jetbrains 对开源文化的支持，和对开源项目及开发者的鼓励。
+Jetbrains 在各个开发语言贡献了世界上最棒的 IDE，以此鸣谢。也欢迎更多开源爱好者回馈社区，支持正版。对此感兴趣？你也可以[点此了解](https://www.jetbrains.com/zh-cn/community/opensource/#support)。
+
+
 ## Community
-* [TL Group](https://t.me/joinchat/KR5uJBYVrA-78poMy94P7w)
 * [深圳Java组](http://szjug.github.io/)
     - [WebRTC Demo](https://github.com/marcplouhinec/webrtcdemo/)
